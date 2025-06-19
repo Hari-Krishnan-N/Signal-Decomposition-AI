@@ -25,7 +25,6 @@
 - [📈 Results](#-results)
 - [🛠️ API Reference](#️-api-reference)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ## 🎯 Overview
 
