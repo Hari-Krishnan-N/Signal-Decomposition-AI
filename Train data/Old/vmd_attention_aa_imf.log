@@ -1,0 +1,55 @@
+2024-12-22 21:57:29,721 - INFO - Using device: cuda
+2024-12-22 21:57:29,837 - INFO - Starting new training for 50 epochs
+2024-12-22 21:58:55,789 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\best_model.pth
+2024-12-22 21:58:55,946 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_1.pth
+2024-12-22 21:59:42,549 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\best_model.pth
+2024-12-22 21:59:42,707 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_2.pth
+2024-12-22 22:00:30,135 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\best_model.pth
+2024-12-22 22:00:30,302 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_3.pth
+2024-12-22 22:01:17,865 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_4.pth
+2024-12-22 22:02:05,739 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_5.pth
+2024-12-22 22:02:53,396 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_6.pth
+2024-12-22 22:03:41,282 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_7.pth
+2024-12-22 22:04:29,410 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_8.pth
+2024-12-22 22:05:18,468 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_9.pth
+2024-12-22 22:06:06,571 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_10.pth
+2024-12-22 22:06:54,920 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_11.pth
+2024-12-22 22:07:43,719 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_12.pth
+2024-12-22 22:08:31,767 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_13.pth
+2024-12-22 22:09:20,455 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_14.pth
+2024-12-22 22:10:09,058 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_15.pth
+2024-12-22 22:11:00,749 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_16.pth
+2024-12-22 22:11:57,876 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_17.pth
+2024-12-22 22:12:49,412 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_18.pth
+2024-12-22 22:13:38,024 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_19.pth
+2024-12-22 22:14:26,937 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_20.pth
+2024-12-22 22:15:16,514 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_21.pth
+2024-12-22 22:16:05,303 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_22.pth
+2024-12-22 22:16:53,875 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_23.pth
+2024-12-22 22:17:42,418 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_24.pth
+2024-12-22 22:18:30,871 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_25.pth
+2024-12-22 22:19:19,149 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_26.pth
+2024-12-22 22:20:07,773 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_27.pth
+2024-12-22 22:20:56,883 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_28.pth
+2024-12-22 22:21:44,978 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_29.pth
+2024-12-22 22:22:34,106 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_30.pth
+2024-12-22 22:23:22,008 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_31.pth
+2024-12-22 22:24:09,648 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_32.pth
+2024-12-22 22:25:00,995 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_33.pth
+2024-12-22 22:25:49,730 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_34.pth
+2024-12-22 22:26:38,061 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_35.pth
+2024-12-22 22:27:26,425 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_36.pth
+2024-12-22 22:28:14,510 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_37.pth
+2024-12-22 22:29:02,945 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_38.pth
+2024-12-22 22:29:51,188 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_39.pth
+2024-12-22 22:30:39,372 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_40.pth
+2024-12-22 22:31:27,011 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_41.pth
+2024-12-22 22:32:15,329 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_42.pth
+2024-12-22 22:33:04,259 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_43.pth
+2024-12-22 22:33:52,179 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_44.pth
+2024-12-22 22:34:40,321 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_45.pth
+2024-12-22 22:35:29,049 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_46.pth
+2024-12-22 22:36:16,785 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_47.pth
+2024-12-22 22:37:04,402 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_48.pth
+2024-12-22 22:37:51,803 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_49.pth
+2024-12-22 22:38:41,216 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_attention_aa_imf\model_epoch_50.pth

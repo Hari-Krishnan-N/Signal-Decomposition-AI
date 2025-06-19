@@ -1,0 +1,235 @@
+2024-12-27 12:28:13,019 - INFO - Using device: cuda
+2024-12-27 12:28:13,167 - INFO - Starting training for 50 epochs from scratch
+2024-12-27 12:29:35,968 - INFO - Training loss for epoch 1: 0.720279302344554
+2024-12-27 12:29:35,968 - INFO - Training accuracy for epoch 1: 50.601851851851855
+2024-12-27 12:30:28,001 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\best_model.pth
+2024-12-27 12:30:28,003 - INFO - Testing loss for epoch 1: 0.6919651922829654
+2024-12-27 12:30:28,003 - INFO - Testing accuracy for epoch 1: 52.293577981651374
+
+2024-12-27 12:30:28,003 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:30:28,667 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_1.pth
+2024-12-27 12:31:00,753 - INFO - Training loss for epoch 2: 0.7017063206682602
+2024-12-27 12:31:00,753 - INFO - Training accuracy for epoch 2: 51.06481481481482
+2024-12-27 12:31:04,426 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\best_model.pth
+2024-12-27 12:31:04,427 - INFO - Testing loss for epoch 2: 0.6897530976785432
+2024-12-27 12:31:04,427 - INFO - Testing accuracy for epoch 2: 51.559633027522935
+
+2024-12-27 12:31:04,427 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:31:05,130 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_2.pth
+2024-12-27 12:31:37,953 - INFO - Training loss for epoch 3: 0.7043451819982793
+2024-12-27 12:31:37,953 - INFO - Training accuracy for epoch 3: 51.94444444444444
+2024-12-27 12:31:40,958 - INFO - Testing loss for epoch 3: 0.6976294328860186
+2024-12-27 12:31:40,958 - INFO - Testing accuracy for epoch 3: 51.559633027522935
+
+2024-12-27 12:31:40,958 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:31:41,695 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_3.pth
+2024-12-27 12:32:14,665 - INFO - Training loss for epoch 4: 0.679005457226325
+2024-12-27 12:32:14,665 - INFO - Training accuracy for epoch 4: 58.00925925925926
+2024-12-27 12:32:18,562 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\best_model.pth
+2024-12-27 12:32:18,563 - INFO - Testing loss for epoch 4: 0.6717042056245541
+2024-12-27 12:32:18,563 - INFO - Testing accuracy for epoch 4: 60.36697247706422
+
+2024-12-27 12:32:18,563 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:32:19,306 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_4.pth
+2024-12-27 12:32:52,767 - INFO - Training loss for epoch 5: 0.66702149387587
+2024-12-27 12:32:52,768 - INFO - Training accuracy for epoch 5: 60.0462962962963
+2024-12-27 12:32:56,591 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\best_model.pth
+2024-12-27 12:32:56,592 - INFO - Testing loss for epoch 5: 0.6569272268802748
+2024-12-27 12:32:56,592 - INFO - Testing accuracy for epoch 5: 61.8348623853211
+
+2024-12-27 12:32:56,592 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:32:57,343 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_5.pth
+2024-12-27 12:33:33,639 - INFO - Training loss for epoch 6: 0.6327352364789005
+2024-12-27 12:33:33,639 - INFO - Training accuracy for epoch 6: 63.7037037037037
+2024-12-27 12:33:37,578 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\best_model.pth
+2024-12-27 12:33:37,579 - INFO - Testing loss for epoch 6: 0.6436233107649952
+2024-12-27 12:33:37,579 - INFO - Testing accuracy for epoch 6: 64.95412844036697
+
+2024-12-27 12:33:37,579 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:33:38,349 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_6.pth
+2024-12-27 12:34:11,683 - INFO - Training loss for epoch 7: 0.6004360468920182
+2024-12-27 12:34:11,683 - INFO - Training accuracy for epoch 7: 67.77777777777777
+2024-12-27 12:34:15,434 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\best_model.pth
+2024-12-27 12:34:15,435 - INFO - Testing loss for epoch 7: 0.6320487228008586
+2024-12-27 12:34:15,435 - INFO - Testing accuracy for epoch 7: 65.87155963302752
+
+2024-12-27 12:34:15,435 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:34:16,144 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_7.pth
+2024-12-27 12:34:49,494 - INFO - Training loss for epoch 8: 0.5641478805423334
+2024-12-27 12:34:49,494 - INFO - Training accuracy for epoch 8: 71.38888888888889
+2024-12-27 12:34:53,353 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\best_model.pth
+2024-12-27 12:34:53,353 - INFO - Testing loss for epoch 8: 0.6310175819954741
+2024-12-27 12:34:53,354 - INFO - Testing accuracy for epoch 8: 67.33944954128441
+
+2024-12-27 12:34:53,354 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:34:54,109 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_8.pth
+2024-12-27 12:35:27,775 - INFO - Training loss for epoch 9: 0.535475987320145
+2024-12-27 12:35:27,775 - INFO - Training accuracy for epoch 9: 74.30555555555556
+2024-12-27 12:35:30,843 - INFO - Testing loss for epoch 9: 0.6612683147738833
+2024-12-27 12:35:30,843 - INFO - Testing accuracy for epoch 9: 62.018348623853214
+
+2024-12-27 12:35:30,843 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:35:31,572 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_9.pth
+2024-12-27 12:36:05,188 - INFO - Training loss for epoch 10: 0.47758436760071804
+2024-12-27 12:36:05,188 - INFO - Training accuracy for epoch 10: 77.45370370370371
+2024-12-27 12:36:09,096 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\best_model.pth
+2024-12-27 12:36:09,097 - INFO - Testing loss for epoch 10: 0.6020118569562195
+2024-12-27 12:36:09,097 - INFO - Testing accuracy for epoch 10: 68.25688073394495
+
+2024-12-27 12:36:09,097 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:36:09,877 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_10.pth
+2024-12-27 12:36:43,554 - INFO - Training loss for epoch 11: 0.42484855750161743
+2024-12-27 12:36:43,554 - INFO - Training accuracy for epoch 11: 81.25
+2024-12-27 12:36:47,532 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\best_model.pth
+2024-12-27 12:36:47,532 - INFO - Testing loss for epoch 11: 0.5960752367973328
+2024-12-27 12:36:47,533 - INFO - Testing accuracy for epoch 11: 67.1559633027523
+
+2024-12-27 12:36:47,533 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:36:48,296 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_11.pth
+2024-12-27 12:37:21,758 - INFO - Training loss for epoch 12: 0.3720862430981705
+2024-12-27 12:37:21,758 - INFO - Training accuracy for epoch 12: 83.70370370370371
+2024-12-27 12:37:24,720 - INFO - Testing loss for epoch 12: 0.6939898845526057
+2024-12-27 12:37:24,720 - INFO - Testing accuracy for epoch 12: 66.23853211009174
+
+2024-12-27 12:37:24,721 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:37:25,467 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_12.pth
+2024-12-27 12:38:00,551 - INFO - Training loss for epoch 13: 0.30229393764467977
+2024-12-27 12:38:00,551 - INFO - Training accuracy for epoch 13: 87.5925925925926
+2024-12-27 12:38:04,515 - INFO - Testing loss for epoch 13: 0.8160735626935686
+2024-12-27 12:38:04,516 - INFO - Testing accuracy for epoch 13: 68.9908256880734
+
+2024-12-27 12:38:04,516 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:38:05,573 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_13.pth
+2024-12-27 12:38:42,647 - INFO - Training loss for epoch 14: 0.2441217356816331
+2024-12-27 12:38:42,647 - INFO - Training accuracy for epoch 14: 89.62962962962963
+2024-12-27 12:38:46,085 - INFO - Testing loss for epoch 14: 0.8828822440988974
+2024-12-27 12:38:46,086 - INFO - Testing accuracy for epoch 14: 67.33944954128441
+
+2024-12-27 12:38:46,086 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:38:46,995 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_14.pth
+2024-12-27 12:39:21,770 - INFO - Training loss for epoch 15: 0.18037006250314233
+2024-12-27 12:39:21,770 - INFO - Training accuracy for epoch 15: 92.5925925925926
+2024-12-27 12:39:25,113 - INFO - Testing loss for epoch 15: 0.897129429145417
+2024-12-27 12:39:25,113 - INFO - Testing accuracy for epoch 15: 67.88990825688073
+
+2024-12-27 12:39:25,113 - INFO - Current Learning rate: [1e-05]
+2024-12-27 12:39:25,971 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_15.pth
+2024-12-27 12:40:00,713 - INFO - Training loss for epoch 16: 0.13185146731376773
+2024-12-27 12:40:00,713 - INFO - Training accuracy for epoch 16: 94.95370370370371
+2024-12-27 12:40:03,728 - INFO - Testing loss for epoch 16: 0.8467519321060235
+2024-12-27 12:40:03,728 - INFO - Testing accuracy for epoch 16: 68.62385321100918
+
+2024-12-27 12:40:03,729 - INFO - Current Learning rate: [1.0000000000000002e-06]
+2024-12-27 12:40:04,502 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_16.pth
+2024-12-27 12:40:38,634 - INFO - Training loss for epoch 17: 0.06496530907174423
+2024-12-27 12:40:38,635 - INFO - Training accuracy for epoch 17: 98.24074074074075
+2024-12-27 12:40:41,774 - INFO - Testing loss for epoch 17: 1.1072337230637568
+2024-12-27 12:40:41,774 - INFO - Testing accuracy for epoch 17: 70.09174311926606
+
+2024-12-27 12:40:41,775 - INFO - Current Learning rate: [1.0000000000000002e-06]
+2024-12-27 12:40:42,563 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_17.pth
+2024-12-27 12:41:16,468 - INFO - Training loss for epoch 18: 0.0281685318526191
+2024-12-27 12:41:16,468 - INFO - Training accuracy for epoch 18: 99.16666666666667
+2024-12-27 12:41:19,844 - INFO - Testing loss for epoch 18: 1.3443512725649154
+2024-12-27 12:41:19,844 - INFO - Testing accuracy for epoch 18: 69.54128440366972
+
+2024-12-27 12:41:19,844 - INFO - Current Learning rate: [1.0000000000000002e-06]
+2024-12-27 12:41:20,713 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_18.pth
+2024-12-27 12:41:54,976 - INFO - Training loss for epoch 19: 0.012549422753855415
+2024-12-27 12:41:54,976 - INFO - Training accuracy for epoch 19: 99.72222222222223
+2024-12-27 12:41:58,152 - INFO - Testing loss for epoch 19: 1.5556702451501283
+2024-12-27 12:41:58,152 - INFO - Testing accuracy for epoch 19: 71.19266055045871
+
+2024-12-27 12:41:58,152 - INFO - Current Learning rate: [1.0000000000000002e-06]
+2024-12-27 12:41:59,025 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_19.pth
+2024-12-27 12:42:33,524 - INFO - Training loss for epoch 20: 0.006144127173178681
+2024-12-27 12:42:33,525 - INFO - Training accuracy for epoch 20: 99.86111111111111
+2024-12-27 12:42:37,014 - INFO - Testing loss for epoch 20: 1.7424519379580379
+2024-12-27 12:42:37,014 - INFO - Testing accuracy for epoch 20: 71.19266055045871
+
+2024-12-27 12:42:37,015 - INFO - Current Learning rate: [1.0000000000000002e-06]
+2024-12-27 12:42:37,883 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_20.pth
+2024-12-27 12:43:12,624 - INFO - Training loss for epoch 21: 0.0030169022670339407
+2024-12-27 12:43:12,624 - INFO - Training accuracy for epoch 21: 99.95370370370371
+2024-12-27 12:43:16,016 - INFO - Testing loss for epoch 21: 1.8979783995427495
+2024-12-27 12:43:16,016 - INFO - Testing accuracy for epoch 21: 70.8256880733945
+
+2024-12-27 12:43:16,016 - INFO - Current Learning rate: [1.0000000000000002e-07]
+2024-12-27 12:43:17,034 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_21.pth
+2024-12-27 12:43:51,681 - INFO - Training loss for epoch 22: 0.0013876572681481405
+2024-12-27 12:43:51,681 - INFO - Training accuracy for epoch 22: 100.0
+2024-12-27 12:43:55,016 - INFO - Testing loss for epoch 22: 1.9212444205220873
+2024-12-27 12:43:55,016 - INFO - Testing accuracy for epoch 22: 70.64220183486239
+
+2024-12-27 12:43:55,016 - INFO - Current Learning rate: [1.0000000000000002e-07]
+2024-12-27 12:43:55,995 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_22.pth
+2024-12-27 12:44:31,183 - INFO - Training loss for epoch 23: 0.0012496452350353171
+2024-12-27 12:44:31,183 - INFO - Training accuracy for epoch 23: 100.0
+2024-12-27 12:44:34,587 - INFO - Testing loss for epoch 23: 1.9452797877968915
+2024-12-27 12:44:34,587 - INFO - Testing accuracy for epoch 23: 70.8256880733945
+
+2024-12-27 12:44:34,587 - INFO - Current Learning rate: [1.0000000000000002e-07]
+2024-12-27 12:44:35,506 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_23.pth
+2024-12-27 12:45:10,184 - INFO - Training loss for epoch 24: 0.001126134158246933
+2024-12-27 12:45:10,185 - INFO - Training accuracy for epoch 24: 100.0
+2024-12-27 12:45:13,520 - INFO - Testing loss for epoch 24: 1.9727891278266265
+2024-12-27 12:45:13,520 - INFO - Testing accuracy for epoch 24: 70.8256880733945
+
+2024-12-27 12:45:13,520 - INFO - Current Learning rate: [1.0000000000000002e-07]
+2024-12-27 12:45:14,478 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_24.pth
+2024-12-27 12:45:49,288 - INFO - Training loss for epoch 25: 0.001004431943994388
+2024-12-27 12:45:49,288 - INFO - Training accuracy for epoch 25: 100.0
+2024-12-27 12:45:52,558 - INFO - Testing loss for epoch 25: 2.001606228309431
+2024-12-27 12:45:52,559 - INFO - Testing accuracy for epoch 25: 71.0091743119266
+
+2024-12-27 12:45:52,559 - INFO - Current Learning rate: [1.0000000000000002e-07]
+2024-12-27 12:45:53,436 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_25.pth
+2024-12-27 12:46:28,241 - INFO - Training loss for epoch 26: 0.000887790025078377
+2024-12-27 12:46:28,241 - INFO - Training accuracy for epoch 26: 100.0
+2024-12-27 12:46:31,525 - INFO - Testing loss for epoch 26: 2.0330073098153463
+2024-12-27 12:46:31,526 - INFO - Testing accuracy for epoch 26: 71.0091743119266
+
+2024-12-27 12:46:31,526 - INFO - Current Learning rate: [1.0000000000000004e-08]
+2024-12-27 12:46:32,428 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_26.pth
+2024-12-27 12:47:07,335 - INFO - Training loss for epoch 27: 0.0008012228934927845
+2024-12-27 12:47:07,336 - INFO - Training accuracy for epoch 27: 100.0
+2024-12-27 12:47:10,614 - INFO - Testing loss for epoch 27: 2.0358378451310357
+2024-12-27 12:47:10,615 - INFO - Testing accuracy for epoch 27: 70.8256880733945
+
+2024-12-27 12:47:10,615 - INFO - Current Learning rate: [1.0000000000000004e-08]
+2024-12-27 12:47:11,510 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_27.pth
+2024-12-27 12:47:46,939 - INFO - Training loss for epoch 28: 0.0007907996760431397
+2024-12-27 12:47:46,940 - INFO - Training accuracy for epoch 28: 100.0
+2024-12-27 12:47:50,206 - INFO - Testing loss for epoch 28: 2.0394609119703926
+2024-12-27 12:47:50,206 - INFO - Testing accuracy for epoch 28: 70.8256880733945
+
+2024-12-27 12:47:50,206 - INFO - Current Learning rate: [1.0000000000000004e-08]
+2024-12-27 12:47:51,143 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_28.pth
+2024-12-27 12:48:26,464 - INFO - Training loss for epoch 29: 0.00077830979429589
+2024-12-27 12:48:26,464 - INFO - Training accuracy for epoch 29: 100.0
+2024-12-27 12:48:29,850 - INFO - Testing loss for epoch 29: 2.0439010150111403
+2024-12-27 12:48:29,851 - INFO - Testing accuracy for epoch 29: 70.8256880733945
+
+2024-12-27 12:48:29,851 - INFO - Current Learning rate: [1.0000000000000004e-08]
+2024-12-27 12:48:30,716 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_29.pth
+2024-12-27 12:49:05,103 - INFO - Training loss for epoch 30: 0.00076238263261951
+2024-12-27 12:49:05,103 - INFO - Training accuracy for epoch 30: 100.0
+2024-12-27 12:49:08,406 - INFO - Testing loss for epoch 30: 2.049354166445474
+2024-12-27 12:49:08,407 - INFO - Testing accuracy for epoch 30: 70.8256880733945
+
+2024-12-27 12:49:08,407 - INFO - Current Learning rate: [1.0000000000000004e-08]
+2024-12-27 12:49:09,336 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_30.pth
+2024-12-27 12:49:44,557 - INFO - Training loss for epoch 31: 0.0007443314059779974
+2024-12-27 12:49:44,557 - INFO - Training accuracy for epoch 31: 100.0
+2024-12-27 12:49:47,865 - INFO - Testing loss for epoch 31: 2.055640209678156
+2024-12-27 12:49:47,865 - INFO - Testing accuracy for epoch 31: 70.8256880733945
+
+2024-12-27 12:49:47,865 - INFO - Current Learning rate: [1.0000000000000004e-08]
+2024-12-27 12:49:48,752 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_31.pth
+2024-12-27 12:50:24,003 - INFO - Training loss for epoch 32: 0.0007236383240057068
+2024-12-27 12:50:24,003 - INFO - Training accuracy for epoch 32: 100.0
+2024-12-27 12:50:27,586 - INFO - Testing loss for epoch 32: 2.063011973226262
+2024-12-27 12:50:27,586 - INFO - Testing accuracy for epoch 32: 70.8256880733945
+
+2024-12-27 12:50:27,586 - INFO - Current Learning rate: [1.0000000000000004e-08]
+2024-12-27 12:50:28,428 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/vit google mel no pretraining\model_epoch_32.pth

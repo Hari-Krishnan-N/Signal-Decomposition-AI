@@ -1,0 +1,119 @@
+2024-12-27 00:28:23,015 - INFO - Using device: cuda
+2024-12-27 00:28:23,017 - INFO - Starting training for 16 epochs from scratch
+2024-12-27 00:29:34,058 - INFO - Training loss for epoch 1: 0.6605942043027392
+2024-12-27 00:29:34,059 - INFO - Training accuracy for epoch 1: 60.46296296296296
+2024-12-27 00:30:17,240 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\best_model.pth
+2024-12-27 00:30:17,242 - INFO - Testing loss for epoch 1: 0.6201186664060715
+2024-12-27 00:30:17,242 - INFO - Testing accuracy for epoch 1: 64.58715596330275
+
+2024-12-27 00:30:17,242 - INFO - Current Learning rate: [1e-05]
+2024-12-27 00:30:17,672 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_1.pth
+2024-12-27 00:30:49,510 - INFO - Training loss for epoch 2: 0.5860943445866859
+2024-12-27 00:30:49,510 - INFO - Training accuracy for epoch 2: 68.28703703703704
+2024-12-27 00:30:52,695 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\best_model.pth
+2024-12-27 00:30:52,695 - INFO - Testing loss for epoch 2: 0.5564756814492952
+2024-12-27 00:30:52,695 - INFO - Testing accuracy for epoch 2: 69.72477064220183
+
+2024-12-27 00:30:52,695 - INFO - Current Learning rate: [1e-05]
+2024-12-27 00:30:53,146 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_2.pth
+2024-12-27 00:31:25,504 - INFO - Training loss for epoch 3: 0.5200972484114269
+2024-12-27 00:31:25,504 - INFO - Training accuracy for epoch 3: 74.39814814814815
+2024-12-27 00:31:28,691 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\best_model.pth
+2024-12-27 00:31:28,691 - INFO - Testing loss for epoch 3: 0.5320539444411566
+2024-12-27 00:31:28,692 - INFO - Testing accuracy for epoch 3: 72.66055045871559
+
+2024-12-27 00:31:28,692 - INFO - Current Learning rate: [1e-05]
+2024-12-27 00:31:29,143 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_3.pth
+2024-12-27 00:32:01,520 - INFO - Training loss for epoch 4: 0.4530102196494462
+2024-12-27 00:32:01,520 - INFO - Training accuracy for epoch 4: 78.56481481481481
+2024-12-27 00:32:04,667 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\best_model.pth
+2024-12-27 00:32:04,668 - INFO - Testing loss for epoch 4: 0.5003761647422926
+2024-12-27 00:32:04,668 - INFO - Testing accuracy for epoch 4: 76.69724770642202
+
+2024-12-27 00:32:04,668 - INFO - Current Learning rate: [1e-05]
+2024-12-27 00:32:05,146 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_4.pth
+2024-12-27 00:32:37,994 - INFO - Training loss for epoch 5: 0.3616567749823271
+2024-12-27 00:32:37,994 - INFO - Training accuracy for epoch 5: 84.25925925925925
+2024-12-27 00:32:41,153 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\best_model.pth
+2024-12-27 00:32:41,154 - INFO - Testing loss for epoch 5: 0.48539485103971913
+2024-12-27 00:32:41,154 - INFO - Testing accuracy for epoch 5: 76.3302752293578
+
+2024-12-27 00:32:41,154 - INFO - Current Learning rate: [1e-05]
+2024-12-27 00:32:41,641 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_5.pth
+2024-12-27 00:33:14,444 - INFO - Training loss for epoch 6: 0.2861359164515441
+2024-12-27 00:33:14,445 - INFO - Training accuracy for epoch 6: 87.5925925925926
+2024-12-27 00:33:17,232 - INFO - Testing loss for epoch 6: 0.5682729592187963
+2024-12-27 00:33:17,232 - INFO - Testing accuracy for epoch 6: 76.14678899082568
+
+2024-12-27 00:33:17,232 - INFO - Current Learning rate: [1e-05]
+2024-12-27 00:33:17,731 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_6.pth
+2024-12-27 00:33:50,681 - INFO - Training loss for epoch 7: 0.21225955073195682
+2024-12-27 00:33:50,681 - INFO - Training accuracy for epoch 7: 92.03703703703704
+2024-12-27 00:33:53,342 - INFO - Testing loss for epoch 7: 0.5140171109425297
+2024-12-27 00:33:53,342 - INFO - Testing accuracy for epoch 7: 79.26605504587155
+
+2024-12-27 00:33:53,343 - INFO - Current Learning rate: [1e-05]
+2024-12-27 00:33:53,819 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_7.pth
+2024-12-27 00:34:26,754 - INFO - Training loss for epoch 8: 0.15376119756762852
+2024-12-27 00:34:26,754 - INFO - Training accuracy for epoch 8: 93.98148148148148
+2024-12-27 00:34:29,449 - INFO - Testing loss for epoch 8: 0.5786572825633536
+2024-12-27 00:34:29,449 - INFO - Testing accuracy for epoch 8: 78.71559633027523
+
+2024-12-27 00:34:29,449 - INFO - Current Learning rate: [1e-05]
+2024-12-27 00:34:29,911 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_8.pth
+2024-12-27 00:35:02,982 - INFO - Training loss for epoch 9: 0.13194915044301456
+2024-12-27 00:35:02,982 - INFO - Training accuracy for epoch 9: 95.18518518518519
+2024-12-27 00:35:05,726 - INFO - Testing loss for epoch 9: 0.6837896551219148
+2024-12-27 00:35:05,726 - INFO - Testing accuracy for epoch 9: 78.53211009174312
+
+2024-12-27 00:35:05,726 - INFO - Current Learning rate: [1e-05]
+2024-12-27 00:35:06,198 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_9.pth
+2024-12-27 00:35:38,992 - INFO - Training loss for epoch 10: 0.09090029920372655
+2024-12-27 00:35:38,992 - INFO - Training accuracy for epoch 10: 97.08333333333333
+2024-12-27 00:35:41,809 - INFO - Testing loss for epoch 10: 0.6227967512789567
+2024-12-27 00:35:41,810 - INFO - Testing accuracy for epoch 10: 77.61467889908256
+
+2024-12-27 00:35:41,810 - INFO - Current Learning rate: [1.0000000000000002e-06]
+2024-12-27 00:35:42,288 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_10.pth
+2024-12-27 00:36:15,524 - INFO - Training loss for epoch 11: 0.05939465033615879
+2024-12-27 00:36:15,524 - INFO - Training accuracy for epoch 11: 98.33333333333333
+2024-12-27 00:36:18,349 - INFO - Testing loss for epoch 11: 0.6308369311058697
+2024-12-27 00:36:18,349 - INFO - Testing accuracy for epoch 11: 80.91743119266054
+
+2024-12-27 00:36:18,349 - INFO - Current Learning rate: [1.0000000000000002e-06]
+2024-12-27 00:36:18,859 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_11.pth
+2024-12-27 00:36:51,458 - INFO - Training loss for epoch 12: 0.049208001689462606
+2024-12-27 00:36:51,459 - INFO - Training accuracy for epoch 12: 98.75
+2024-12-27 00:36:54,209 - INFO - Testing loss for epoch 12: 0.6228158494837821
+2024-12-27 00:36:54,209 - INFO - Testing accuracy for epoch 12: 82.01834862385321
+
+2024-12-27 00:36:54,209 - INFO - Current Learning rate: [1.0000000000000002e-06]
+2024-12-27 00:36:54,741 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_12.pth
+2024-12-27 00:37:27,866 - INFO - Training loss for epoch 13: 0.04249021964319076
+2024-12-27 00:37:27,866 - INFO - Training accuracy for epoch 13: 98.93518518518519
+2024-12-27 00:37:30,606 - INFO - Testing loss for epoch 13: 0.6439429943058896
+2024-12-27 00:37:30,606 - INFO - Testing accuracy for epoch 13: 82.56880733944953
+
+2024-12-27 00:37:30,606 - INFO - Current Learning rate: [1.0000000000000002e-06]
+2024-12-27 00:37:31,094 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_13.pth
+2024-12-27 00:38:03,863 - INFO - Training loss for epoch 14: 0.037980768155749606
+2024-12-27 00:38:03,863 - INFO - Training accuracy for epoch 14: 99.02777777777777
+2024-12-27 00:38:06,641 - INFO - Testing loss for epoch 14: 0.6406468300644411
+2024-12-27 00:38:06,641 - INFO - Testing accuracy for epoch 14: 82.75229357798165
+
+2024-12-27 00:38:06,641 - INFO - Current Learning rate: [1.0000000000000002e-06]
+2024-12-27 00:38:07,109 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_14.pth
+2024-12-27 00:38:40,674 - INFO - Training loss for epoch 15: 0.04033148937769174
+2024-12-27 00:38:40,675 - INFO - Training accuracy for epoch 15: 98.6574074074074
+2024-12-27 00:38:43,488 - INFO - Testing loss for epoch 15: 0.6373404677430757
+2024-12-27 00:38:43,488 - INFO - Testing accuracy for epoch 15: 82.56880733944953
+
+2024-12-27 00:38:43,488 - INFO - Current Learning rate: [1.0000000000000002e-07]
+2024-12-27 00:38:43,964 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_15.pth
+2024-12-27 00:39:19,480 - INFO - Training loss for epoch 16: 0.03097908069873854
+2024-12-27 00:39:19,480 - INFO - Training accuracy for epoch 16: 99.30555555555556
+2024-12-27 00:39:22,238 - INFO - Testing loss for epoch 16: 0.6400597672466266
+2024-12-27 00:39:22,239 - INFO - Testing accuracy for epoch 16: 83.11926605504587
+
+2024-12-27 00:39:22,239 - INFO - Current Learning rate: [1.0000000000000002e-07]
+2024-12-27 00:39:22,725 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints/Convxnet mel stft both\model_epoch_16.pth

@@ -1,0 +1,14 @@
+2024-12-22 20:31:46,078 - INFO - Using device: cuda
+2024-12-22 20:31:46,171 - INFO - Starting new training for 10 epochs
+2024-12-22 20:35:55,473 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_coattention_ba_mel_imf\best_model.pth
+2024-12-22 20:35:55,833 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_coattention_ba_mel_imf\model_epoch_1.pth
+2024-12-22 20:39:13,822 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_coattention_ba_mel_imf\best_model.pth
+2024-12-22 20:39:14,179 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_coattention_ba_mel_imf\model_epoch_2.pth
+2024-12-22 20:42:38,815 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_coattention_ba_mel_imf\model_epoch_3.pth
+2024-12-22 20:46:03,397 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_coattention_ba_mel_imf\model_epoch_4.pth
+2024-12-22 20:49:28,113 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_coattention_ba_mel_imf\model_epoch_5.pth
+2024-12-22 20:52:52,292 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_coattention_ba_mel_imf\model_epoch_6.pth
+2024-12-22 20:56:14,374 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_coattention_ba_mel_imf\model_epoch_7.pth
+2024-12-22 20:59:35,611 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_coattention_ba_mel_imf\model_epoch_8.pth
+2024-12-22 21:02:56,514 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_coattention_ba_mel_imf\model_epoch_9.pth
+2024-12-22 21:06:18,091 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_coattention_ba_mel_imf\model_epoch_10.pth

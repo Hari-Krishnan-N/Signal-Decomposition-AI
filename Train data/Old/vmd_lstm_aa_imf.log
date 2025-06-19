@@ -1,0 +1,18 @@
+2024-12-25 22:02:47,687 - INFO - Using device: cuda
+2024-12-25 22:02:47,794 - INFO - Starting new training for 50 epochs
+2024-12-25 22:09:34,992 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\best_model.pth
+2024-12-25 22:09:35,072 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\model_epoch_1.pth
+2024-12-25 22:15:38,320 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\model_epoch_2.pth
+2024-12-25 22:21:37,225 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\model_epoch_3.pth
+2024-12-25 22:27:36,243 - INFO - Best model saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\best_model.pth
+2024-12-25 22:27:36,322 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\model_epoch_4.pth
+2024-12-25 22:33:41,775 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\model_epoch_5.pth
+2024-12-25 22:39:55,716 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\model_epoch_6.pth
+2024-12-25 22:46:07,668 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\model_epoch_7.pth
+2024-12-25 22:52:24,107 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\model_epoch_8.pth
+2024-12-25 22:58:31,249 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\model_epoch_9.pth
+2024-12-25 23:04:50,455 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\model_epoch_10.pth
+2024-12-25 23:11:02,373 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\model_epoch_11.pth
+2024-12-25 23:17:08,513 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\model_epoch_12.pth
+2024-12-25 23:23:15,556 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 5/BMSP paper work/Train data/Checkpoints vmd_lstm_aa_imf\model_epoch_13.pth
+2024-12-26 21:35:49,965 - INFO - Using device: cuda
