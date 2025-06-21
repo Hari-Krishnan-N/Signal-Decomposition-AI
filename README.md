@@ -378,6 +378,6 @@ If you use this work in your research, please cite:
   title={Signal Decomposition and Deep Learning Framework},
   author={Hari Krishnan N},
   year={2025},
-  url={https://github.com/your-username/SignalDecomposition}
+  url={https://github.com/Hari-Krishnan-N/SignalDecomposition}
 }
 ```
